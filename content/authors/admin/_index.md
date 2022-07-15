@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: /#contact
   - icon: github
-    icon_pack: fab
+    icon_pack: ai
     link: https://github.com/recusant7
   - display:
       header: false
@@ -33,4 +33,4 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Shunpu Tang, received the B.E. degree in 2020 and he is currently pursuing the master degree, both with the School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. His current research interests include edge intelligence, mobile computing and IoT networks.
+Shunpu Tang received the B.E. degree in 2020 and he is currently pursuing the master degree, both with the School of Computer Science and Cyber Engineering, Guangzhou University, Guangzhou, China. His current research interests include edge intelligence, mobile computing and IoT networks.
