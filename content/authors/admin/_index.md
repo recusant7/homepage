@@ -1,8 +1,8 @@
 ---
-title: Nelson Bighetti
-role: Professor of Artificial Intelligence
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+title: Shunpu Tang
+role: ""
+bio: My research interests include edge intelligence, mobile computing and IoT
+  networks.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
